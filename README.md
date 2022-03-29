@@ -1,5 +1,6 @@
 # java-assignment05
 Java Seasion05
+
 LAB01: 
 1. Tạo một giao diện (interface) có tên INews bao gồm phương thức void Display().
 
