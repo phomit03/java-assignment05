@@ -77,6 +77,7 @@ public class News implements INews{
     public void Calculate() {
         float total = 0;
         Scanner sc = new Scanner(System.in);
+
         System.out.print("Nhập các phần tử của mảng: \n");
         for (int i = 0; i < 3; i++) {
             System.out.printf("RateList[%d] = ", i);
